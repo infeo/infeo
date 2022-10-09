@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a software engineer ⌨️ and enthusiastic dancer🕺
+
+Trying to learn Rust from time to time.
+
 <!--
 **infeo/infeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
